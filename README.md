@@ -20,6 +20,12 @@
 ### 🧩 Frameworks and libraries
 
 <p>
+    <a href="#">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="50"/>
+  </a>
+    <a href="#">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="50"/>
+  </a>
   <a href="#">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="50"/>
   </a>
