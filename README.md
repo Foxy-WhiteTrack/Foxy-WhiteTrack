@@ -1,7 +1,11 @@
+<style>
+  img{
+    width: 50px;
+    height: 50px;
+  }
+</style>
 <h2 align="center">
-  Bienvenue,
-  <img src="https://giphy.com/gifs/code-security-binary-7FrOU9tPbgAZtxV5mb" width="50">
-  chez One Trick
+  Bienvenue 🐰 sur le Github de One Trick
 </h2>
 <br/>
   
