@@ -1,9 +1,3 @@
-<style>
-  img{
-    width: 50px;
-    height: 50px;
-  }
-</style>
 <h2 align="center">
   Bienvenue 🐰 sur le Github de One Trick
 </h2>
@@ -16,10 +10,10 @@
 
 <p>
   <a href="#">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50"/>
   </a>
   <a href="#">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="50"/>
   </a>
 </p>
 
@@ -27,10 +21,10 @@
 
 <p>
   <a href="#">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="50"/>
   </a>
   <a href="#">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" width="50"/>
   </a>
 </p>
 
@@ -38,10 +32,10 @@
 
 <p>
   <a href="#">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50"/>
   </a>
   <a href="#">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="50"/>
   </a>
 </p>
 
@@ -49,6 +43,6 @@
 
 <p>
   <a href="#">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="50"/>
   </a>
 </p>
