@@ -1,11 +1,3 @@
-<h2 align="center">
-  Bienvenue 🐰 sur le Github de One Trick
-</h2>
-<br/>
-  
-## 📊 Mes stats 📊
-
-
 ### 🖥️ Les langages que j'utilise
 
 <p>
