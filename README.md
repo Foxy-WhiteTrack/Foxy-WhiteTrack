@@ -1,10 +1,9 @@
-### 🖥️ Les langages que j'utilise
-
 <h2 align="center">
   Bonjour,
   et bienvenue sur mon Github. Je suis Nancy Pontes aka One Trick et Foxy WhiteTrack.
 </h2>
 
+### 🖥️ Les langages que j'utilise
 <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="50"/>
