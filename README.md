@@ -1,6 +1,6 @@
 <h2 align="center">
   Bonjour,
-  et bienvenue sur mon Github. Je suis Nancy Pontes aka One Trick et Foxy WhiteTrack.
+  et bienvenue sur mon Github. Je suis Nancy Pontes aka Foxy WhiteTrack.
 </h2>
 
 ### 🖥️ Les langages que j'utilise
